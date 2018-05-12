@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_top_rated">Top Rated</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_favourites">Favourites</string>
+    <string name="author_text"> wrote:</string>
+    <string name="rating_text">%1$s/10</string>
+    <string name="duration_min_text">min</string>
+    <string name="no_internet_connection">Whoops! No network connection found.</string>
+    <string name="user_rating_text">User Rating:</string>
+    <string name="released_on_text">Released On:</string>
+    <string name="favourite_text">Add as favourite:</string>
+    <string name="trailers_heading">Trailers:</string>
+    <string name="reviews_heading">Reviews:</string>
+    <string name="trailer1_text">Trailer 1</string>
+    <string name="trailer2_text">Trailer 2</string>
+    <string name="no_movies_found">No favourites added yet.</string>
+    <string name="image_description">Movie Poster</string>
+
+
+    <string name="progress_dialog_title">Loading...</string>
+    <string name="empty_reviews_text">No reviews yet.</string>
+    <string name="added_to_fav_toast_text">Added to favourites</string>
+    <string name="removed_from_fav_toast">Removed from favourites</string>
+    <string name="movie_detail_title">Movie Details</string>
+</resources>
